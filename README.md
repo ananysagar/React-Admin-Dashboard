@@ -2,7 +2,7 @@
 
 Tech stacks used - Reactjs, Scss, MaterialUI
 
-## Project is live here: https://react-admin-dashboard-six-zeta.vercel.app/
+## Project is live here: [https://react-admin-dashboard-six-zeta.vercel.app/](https://admin-dashboard-bay-zeta.vercel.app/)
 
 ### Layout
 
